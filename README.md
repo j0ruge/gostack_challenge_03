@@ -1,1 +1,1 @@
-﻿# # Desafio 03: Front-end com ReactJS do GoStack da Rocketseat
+﻿# # Desafio 03: Conceitos do ReactJS do GoStack da Rocketseat
